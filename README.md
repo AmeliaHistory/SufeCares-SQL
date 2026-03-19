@@ -5,8 +5,8 @@
 | 角色 | 姓名 | GitHub |
 |------|------|--------|
 | 项目组长 | Amelia | [@AmeliaHistory](https://github.com/AmeliaHistory) |
-| 后端开发 | yoooooo-2711 | [@yoooooo-2711](https://github.com/yoooooo-2711) |
-| 前端开发 | Fang-blkbns | [@Fang-blkbns](https://github.com/Fang-blkbns) |
+| 前端开发 | yoooooo-2711 | [@yoooooo-2711](https://github.com/yoooooo-2711) |
+| 后端开发 | Fang-blkbns | [@Fang-blkbns](https://github.com/Fang-blkbns) |
 | 文档/测试 | Moolady | [@Moolady](https://github.com/Moolady) |
 
 # SufeCares-SQL
