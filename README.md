@@ -1,8 +1,8 @@
-# 🍽️ SufeCares-SQL 校园美食推荐系统
+#  SufeCares-SQL 校园美食推荐系统
 
 <div align="center">
   <img src="WindowsApp7/WindowsApp7/Resources/logo与背景.png" alt="项目Logo" width="1000"/>
-  <p><em>上财美食，一查便知</em></p>
+  <p><em>~上财美食，一查便知~</em></p>
 </div>
 
 ---
@@ -11,19 +11,17 @@
 
 **SufeCares-SQL** 是一款基于 **SQL Server + VB.NET** 开发的校园美食信息查询与推荐系统，由上海财经大学4人团队协作完成。本项目旨在为上财师生提供便捷的食堂信息查询、菜品浏览与推荐服务，解决“今天吃什么”的日常难题。
 
-## 👥 团队介绍
-
-本项目由上海财经大学4人团队历时2个月协作完成，分工明确，各司其职：
+---
 ## 👥 团队介绍
 
 本项目由上海财经大学统计与数据科学学院 **数据科学与大数据技术** 专业4人团队历时2个月协作完成。四位成员分工明确，各司其职，共同完成了从需求分析、数据库设计、前后端开发到系统测试的全流程。
 
 | 头像 | 姓名 | GitHub | 主要负责 |
 |:----:|:----:|:------:|----------|
-| 🧑‍🎨 | **Amelia_History** | [@AmeliaHistory](https://github.com/AmeliaHistory) | • 管理员界面开发<br>• 推荐/排行榜界面开发<br>• 项目意义与选题背景撰写<br>• 图标、背景设计及ER图绘制<br>• 页面美化 |
-| 👩‍🔬 | **yoooooo-2711** | [@yoooooo-2711](https://github.com/yoooooo-2711) | • 今天吃什么页面<br>• 菜品详情页面<br>• 随机生成菜品页面<br>• 评论页面、map页面<br>• 项目不足与经验总结撰写 |
-| 👩‍🏫 | **Fang-blkbns** | [@Fang-blkbns](https://github.com/Fang-blkbns) | • **数据库全权负责**：建表、触发器、视图、存储过程<br>• 核心数据注入（100+条测试数据）<br>• 数据库性能优化与完整性控制 |
-| 🧑‍🚀 | **Moolady** | [@Moolady](https://github.com/Moolady) | • 登录/注册/密码模块（登录、用户登录、管理员登录、注册、忘记/修改密码）<br>• 个人中心、我的收藏、我的评论<br>• 校味互鉴、主页面<br>• 系统总体格式统一与美化<br>• PPT制作及报告相关部分 |
+| <img src="https://github.com/AmeliaHistory.png" width="40" height="40" style="border-radius: 50%;"> | **Amelia_History** | [@AmeliaHistory](https://github.com/AmeliaHistory) | • 管理员界面开发<br>• 推荐/排行榜界面开发<br>• 项目意义与选题背景撰写<br>• 图标、背景设计及ER图绘制<br>• 页面美化 |
+| <img src="https://github.com/yv5s5hkpr2-design.png" width="40" height="40" style="border-radius: 50%;"> | **yoooooo-2711** | [@yoooooo-2711](https://github.com/yoooooo-2711) | • 今天吃什么页面<br>• 菜品详情页面<br>• 随机生成菜品页面<br>• 评论页面、map页面<br>• 项目不足与经验总结撰写 |
+| <img src="https://github.com/Fang-blkbns.png" width="40" height="40" style="border-radius: 50%;"> | **Fang-blkbns** | [@Fang-blkbns](https://github.com/Fang-blkbns) | • **数据库全权负责**：建表、触发器、视图、存储过程<br>• 核心数据注入（100+条测试数据）<br>• 数据库性能优化与完整性控制 |
+| <img src="https://github.com/Moolady.png" width="40" height="40" style="border-radius: 50%;"> | **Moolady** | [@Moolady](https://github.com/Moolady) | • 登录/注册/密码模块（登录、用户登录、管理员登录、注册、忘记/修改密码）<br>• 个人中心、我的收藏、我的评论<br>• 校味互鉴、主页面<br>• 系统总体格式统一与美化<br>• PPT制作及报告相关部分 |
 
 > 💡 四位成员均为一作贡献，共同完成了这个项目的需求分析、设计、编码、测试全流程。项目获课程设计90+高分，被用作学弟妹学习参考。
 
