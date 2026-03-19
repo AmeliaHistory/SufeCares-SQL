@@ -82,3 +82,7 @@ SufeCares-SQL/
 ├── .gitignore
 └── LICENSE
 ```
+## 📁 SQL-ER图
+<div align="center">
+  <img src="WindowsApp7/WindowsApp7/Resources/图片5.png" alt="ER1" width="500"/><img src="WindowsApp7/WindowsApp7/Resources/图片6.png" alt="ER2" width="500"/>
+</div>
