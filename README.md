@@ -61,29 +61,26 @@
 | **视图** | 简化查询 | 排行榜视图（`View_DishRanking`）、用户收藏视图（`View_UserFavorites`）、菜品评论视图（`View_DishComments`） |
 
 ---
+## 📁 项目结构
 
+```
 SufeCares-SQL/
-│
-├── 📂 WindowsApp7/                          # 主项目文件夹
-│   ├── 📂 .vs/                              # Visual Studio 配置（已忽略）
-│   ├── 📂 WindowsApp7/                       # 源代码
-│   │   ├── 📂 My Project/                     # 项目配置（应用程序设置、资源、程序集信息）
-│   │   ├── 📂 Resources/                       # 图片资源（logo、菜品图片等）
-│   │   ├── 📂 bin/                              # 编译输出（已忽略）
-│   │   ├── 📂 obj/                              # 临时文件（已忽略）
-│   │   ├── 📄 *.vb                              # 窗体代码文件（登录、主界面、菜品详情等）
-│   │   ├── 📄 *.resx                            # 窗体资源文件
-│   │   ├── 📄 WindowsApp7.vbproj                # 项目文件
-│   │   └── 📄 WindowsApp7.sln                   # 解决方案文件
-│   └── 📄 ...                                 # 其他项目文件
-│
-├── 📂 Database/                            # 数据库脚本
-│   ├── 📄 CreateTables.sql                   # 建表语句（6张核心表）
-│   └── 📄 InsertData.sql                      # 测试数据插入（100+条）
-│
-├── 📄 scriptfinal.sql                        # 完整数据库脚本（建表+数据）
-├── 📄 美食查看信息推荐SufeCares-介绍.pdf         # 项目介绍文档
-├── 📄 美食查看信息推荐SufeCares-报告.docx         # 项目详细报告
-├── 📄 README.md                              # 本文件
-├── 📄 .gitignore                              # Git忽略配置
-└── 📄 LICENSE                                 # MIT开源许可证
+├── WindowsApp7/              # 主项目文件夹
+│   ├── WindowsApp7/          # 源代码
+│   │   ├── My Project/       # 项目配置
+│   │   ├── Resources/        # 图片资源
+│   │   ├── *.vb              # 窗体代码
+│   │   ├── *.resx            # 窗体资源
+│   │   ├── WindowsApp7.vbproj
+│   │   └── WindowsApp7.sln
+│   └── .vs/                  # VS配置（已忽略）
+├── Database/                  # 数据库脚本
+│   ├── CreateTables.sql      # 建表语句
+│   └── InsertData.sql        # 测试数据
+├── scriptfinal.sql           # 完整数据库脚本
+├── 美食查看信息推荐SufeCares-介绍.pdf
+├── 美食查看信息推荐SufeCares-报告.docx
+├── README.md
+├── .gitignore
+└── LICENSE
+```
